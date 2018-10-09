@@ -6,7 +6,7 @@ class Footer extends Component{
     render(){
         return(
             <footer className="App-section">
-                <p>Footer</p>
+                <p>All rights Reserved by Azad</p>
             </footer>                
         );
     }
