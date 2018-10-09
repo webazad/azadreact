@@ -9,9 +9,10 @@ class Nav extends Component{
         return(
             <nav>
                 <ul>
-                    <li><Link to="/">Home</Link></li>
                     <li><Link to="About">About</Link></li>
+                    <li><Link to="Portfolio">Services</Link></li>
                     <li><Link to="Portfolio">Portfolio</Link></li>
+                    <li><Link to="Portfolio">Contact</Link></li>
                 </ul>
             </nav> 
         );
