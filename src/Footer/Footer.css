@@ -13,8 +13,28 @@ div.col{
     float: left;
     width: 25%;
 }
+div.col ul{
+    list-style: none;
+    text-align: left;
+}
+div.col ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 2px;
+    margin-bottom: 5px;
+    color: #e3e3e3;
+    font-size: 13px;
+}
+div.col ul li a:hover{
+    color: #ffffff;
+}
+footer div.footer_top{
+    padding: 40px 0px;
+    background: #000000;
+    color: #ffffff;
+}
 div.copyright{
-    padding: 10px 0px;
+    padding: 20px 0px;
     background: #cccccc;
 }
 footer p{

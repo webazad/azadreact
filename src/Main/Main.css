@@ -4,7 +4,13 @@
 */
 section{
     background: #ffffff;
-    padding: 30px 0px;    
+}
+section h2{
+    margin: 0;
+}
+div.main_section{
+    padding: 30px 0px;
+    background: #e3e3e3;
 }
 .box{
     background: #e3e3e3;

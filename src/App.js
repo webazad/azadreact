@@ -11,6 +11,7 @@ import './App.css';
 import './Header/Header.css';
 import './Nav/Nav.css';
 import './Main/Main.css';
+import './Portfolio/Portfolio.css';
 import './Footer/Footer.css';
 
 class App extends Component {
