@@ -19,27 +19,27 @@ class Footer extends Component{
                                 <ul>
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/">Blog</a></li>
-                                    <li><a href="/">Services</a></li>
-                                    <li><a href="/">Portfolio</a></li>
-                                    <li><a href="/">Contact</a></li>
+                                    <li><a href="/services">Services</a></li>
+                                    <li><a href="/portfolio">Portfolio</a></li>
+                                    <li><a href="/contact">Contact</a></li>
                                 </ul>
                             </div>
                             <div className="col">
                                 <ul>
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/">Blog</a></li>
-                                    <li><a href="/">Services</a></li>
-                                    <li><a href="/">Portfolio</a></li>
-                                    <li><a href="/">Contact</a></li>
+                                    <li><a href="/services">Services</a></li>
+                                    <li><a href="/portfolio">Portfolio</a></li>
+                                    <li><a href="/contact">Contact</a></li>
                                 </ul>
                             </div>
                             <div className="col">
                                 <ul>
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/">Blog</a></li>
-                                    <li><a href="/">Services</a></li>
-                                    <li><a href="/">Portfolio</a></li>
-                                    <li><a href="/">Contact</a></li>
+                                    <li><a href="/services">Services</a></li>
+                                    <li><a href="/portfolio">Portfolio</a></li>
+                                    <li><a href="/contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
