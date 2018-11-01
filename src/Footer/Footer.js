@@ -8,11 +8,11 @@ import logo from '../Header/logo.png';
 class Footer extends Component{
     render(){
         return(
-            <footer className="App-section">
+            <footer className="the_footer">
                 <div className="footer_top">
                     <div className="">
                         <div className="container">
-                            <div className="col">
+                            <div className="col logo">
                                 <a href="/"><img src={logo} className="App-logo" alt="logo" /></a>
                             </div>
                             <div className="col">

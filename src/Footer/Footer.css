@@ -2,43 +2,15 @@
     Created on : Sep 24, 2018, 10:24:34 AM
     Author     : Md. Abul Kalam Azad
 */
-footer{
-    
-}
-footer .container{
-    overflow: hidden;
-    margin-bottom: 2px;
-}
-div.col{
-    float: left;
-    width: 25%;
-}
-div.col ul{
-    margin-top: 0;
-    list-style: none;
-    text-align: left;
-}
-div.col ul li a{
-    text-decoration: none;
-    display: block;
-    padding: 2px;
-    margin-bottom: 5px;
-    color: #e3e3e3;
-    font-size: 13px;
-}
-div.col ul li a:hover{
-    color: #ffffff;
-}
-footer div.footer_top{
-    padding: 40px 0px;
-    background: #000000;
-    color: #ffffff;
-}
-div.copyright{
-    padding: 20px 0px;
-    background: red;
-}
-footer p{
-    margin: 0;
-}
+footer{border-bottom:4px solid #ff6347;}
+footer .container{overflow: hidden;width: 80%;margin: 0 auto 2px;}
+div.col{float: left;width: 25%;}
+div.col.logo{text-align: left;}
+div.col ul{margin-top: 0;list-style: none;text-align: left;}
+div.col ul li a{text-decoration: none;display: block;padding: 2px;
+    margin-bottom: 5px;color: #e3e3e3;font-size: 13px;}
+div.col ul li a:hover{color: #ffffff;}
+footer div.footer_top{padding: 40px 0px;background: #313030;color: #ffffff;}
+div.copyright{padding: 20px 0px;background: rgb(0, 0, 0);}
+footer p{margin: 0;color:#ffffff;font-size:15px;}
 

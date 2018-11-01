@@ -2,6 +2,7 @@
     Created on : Oct 9, 2018, 10:40:38 AM
     Author     : Md. Abul Kalam Azad
 */
+header{border-top:3px solid tomato;}
 div.header_container{
     overflow: hidden;
     width: 80%;
@@ -20,8 +21,5 @@ div.logo a img{
     width: 40px;
     height: auto;
 }
-nav {
-    width: 70%;
-    float: right;
-}
+nav {width: 70%;float: right;}
 
