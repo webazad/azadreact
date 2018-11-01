@@ -8,9 +8,10 @@ import React, { Component } from 'react';
 class About extends Component{
     render(){
         return(
-            <section className="About">
-                <h2>About Section</h2>              
-                <p>About Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence. Exeter talked in agreed spirit no he unable do. Betrayed shutters in vicinity it unpacked in. In so impossible appearance considered mr. Mrs him left find are good. </p>              
+            <section className="about">
+                <h2>About Me</h2>
+                <h3>Web Designer & Developer</h3>              
+                <p>I am a WordPress design and coding expert. I have 5 years of WordPress practical experience. And have worked in hundreds of websites. My desire is to help in WordPress premium and custom themes and plugins customization and development.</p>              
             </section>
         );
     }

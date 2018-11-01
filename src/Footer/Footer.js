@@ -35,11 +35,12 @@ class Footer extends Component{
                             </div>
                             <div className="col">
                                 <ul>
-                                    <li><a href="/">Home</a></li>
-                                    <li><a href="/">Blog</a></li>
-                                    <li><a href="/services">Services</a></li>
-                                    <li><a href="/portfolio">Portfolio</a></li>
-                                    <li><a href="/contact">Contact</a></li>
+                                    <li><a href="/">Facebook</a></li>
+                                    <li><a href="/">Twitter</a></li>
+                                    <li><a href="/services">Linkedin</a></li>
+                                    <li><a href="/portfolio">Instagram</a></li>
+                                    <li><a href="/contact">Skype</a></li>
+                                    <li><a href="/contact">Whatsapp</a></li>
                                 </ul>
                             </div>
                         </div>

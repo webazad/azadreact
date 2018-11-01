@@ -12,6 +12,7 @@ import Footer from './Footer/Footer';
 import './App.css';
 import './Header/Header.css';
 import './Nav/Nav.css';
+import './About/About.css';
 import './Main/Main.css';
 import './Services/Services.css';
 import './Portfolio/Portfolio.css';
