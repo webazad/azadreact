@@ -12,7 +12,7 @@ class Portfolio extends Component{
                 </section>
                 <section style={{ 'background' : "#e3e3e3",'padding' : "20px 0px" }}>
                     <h2>Demos of ...</h2>
-                    <ol style={{ 'display' : "inline-block" }}>
+                    <ul style={{ 'display' : "inline-block" }}>
                         <li><a href="https://www.templatemonster.com/demo/54875.html" title="Demo 1" target="_blank">Demo 1</a></li>
                         <li><a href="http://preview.themeforest.net/item/little-people-kindergarten-wordpress-theme-for-prescool-and-infants-nurseries-and-play-school/full_screen_preview/11494908?ref=athemez&clickthrough_id=1389647478&redirect_back=true" target="_blank" title="Demo 2">Demo 2</a></li>
                         <li><a href="http://preview.themeforest.net/item/fable-children-kindergarten-wordpress-theme/full_screen_preview/9294431?ref=athemez&clickthrough_id&redirect_back=true" target="_blank" title="Demo 3">Demo 3</a></li>
@@ -22,7 +22,7 @@ class Portfolio extends Component{
                         <li><a href="https://webthemez.com/preview/?blush-beauty-salon-responsive-website-template-free-download" target="_blank" title="Demo 7">Demo 7</a></li>
                         <li><a href="https://webthemez.com/preview/?swift-car-wash-html-website-template" target="_blank" title="Demo 8">Demo 8</a></li>
                         <li><a href="https://webthemez.com/preview/?xtream-corporate-responsive-website-template" target="_blank" title="Demo 9">Demo 9</a></li>
-                    </ol>
+                    </ul>
                 </section>
                 <section style={{ 'background' : "#ffffff",'padding' : "20px 0px" }}>
                     <h2>Completed sites ...</h2>
