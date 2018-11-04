@@ -3,8 +3,26 @@
     Author     : Md. Abul Kalam Azad
 */
 section{}
-section h2{margin: 0;}
-section.main_bottom{background: #e3e3e3;}
-.box{overflow: hidden;width: 80%;margin: 0 auto;}
-div.colm{width: 33.33333333333%;float: left;}
+section h2, section h3{color:#5c5959;}
+div.main_upper{padding:30px 0px;background: #ffffff;}
+div.main_lower{padding:30px 0px;background: #e3e3e3;}
+div.upper_box{width:80%;margin:0 auto;}
+div.box{
+    align-items:center;
+    display:flex;
+    margin:0 auto;
+    width:80%;
+    flex-direction:row;
+    justify-content:space-between;
+    align-content:space-around;
+    flex-wrap:wrap;
+}
+div.colm_3{ 
+    border: 1px solid #c0bbbb;
+    background:#ffffff;
+    border-radius:5px;
+    padding:10px;
+    flex-basis:30%;
+    box-shadow:0px 0px 2px 1px rgba(0,0,0,0.3);
+}
 
