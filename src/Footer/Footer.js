@@ -16,38 +16,41 @@ class Footer extends Component{
                                 <a href="/"><img src={logo} className="App-logo" alt="logo" /></a>
                             </div>
                             <div className="col">
+                                <h3>Links</h3>
                                 <ul>
-                                    <li><a href="/">Home</a></li>
+                                    <li><a href="/">Privacy Policy</a></li>
+                                    <li><a href="/">Terms Of Services</a></li>
                                     <li><a href="/">Blog</a></li>
-                                    <li><a href="/services">Services</a></li>
-                                    <li><a href="/portfolio">Portfolio</a></li>
-                                    <li><a href="/contact">Contact</a></li>
+                                    <li><a href="/">Designer</a></li>
+                                    <li><a href="/">Developer</a></li>
                                 </ul>
                             </div>
                             <div className="col">
+                                <h3>Languages</h3>
                                 <ul>
-                                    <li><a href="/">Home</a></li>
-                                    <li><a href="/">Blog</a></li>
-                                    <li><a href="/services">Services</a></li>
-                                    <li><a href="/portfolio">Portfolio</a></li>
-                                    <li><a href="/contact">Contact</a></li>
+                                    <li><a href="/">HTML</a></li>
+                                    <li><a href="/">CSS</a></li>
+                                    <li><a href="/">JAVASCRIPT</a></li>
+                                    <li><a href="/">PHP</a></li>
+                                    <li><a href="/">REACTJS</a></li>
                                 </ul>
                             </div>
                             <div className="col">
+                                <h3>Socials</h3>
                                 <ul>
                                     <li><a href="/">Facebook</a></li>
                                     <li><a href="/">Twitter</a></li>
-                                    <li><a href="/services">Linkedin</a></li>
-                                    <li><a href="/portfolio">Instagram</a></li>
-                                    <li><a href="/contact">Skype</a></li>
-                                    <li><a href="/contact">Whatsapp</a></li>
+                                    <li><a href="/">Linkedin</a></li>
+                                    <li><a href="/">Instagram</a></li>
+                                    <li><a href="/">Skype</a></li>
+                                    <li><a href="/">Whatsapp</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div className="copyright">
-                    <p>All rights Reserved by Azad</p>
+                    <p>Copyright 2018, All rights Reserved By Azad</p>
                 </div>
             </footer>                
         );

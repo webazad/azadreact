@@ -5,7 +5,14 @@
 section ul li{font-family: 'Rajdhani', sans-serif;text-align: left;display:inline;margin-right:10px;}
 section ul li a{color:#ffffff;background:#444141;padding:5px;border-radius:4px;text-decoration:none;}
 section ul li a:hover{color:#e3e3e3;text-decoration:none;background:#000000;}
-section ol{display:inline-block;}
-section ol li{color:#444141;background:#444141;margin-bottom:5px;border-radius:4px;list-style-position:outside;}
+section ol{display:inline;}
+section ol li{
+    color:#444141;
+    background:#444141;
+    margin:5px 5px;
+    border-radius:4px;
+    list-style-position:outside;
+    display: inline-block;
+}
 section ol li a{color:#ffffff;background:#444141;padding:5px;border-radius:4px;text-decoration:none;display:block;}
 section ol li a:hover{color:#ffffff;background:#000000;}

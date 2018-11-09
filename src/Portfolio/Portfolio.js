@@ -40,7 +40,9 @@ class Portfolio extends Component{
                         <li><a href="https://fantasyhall.com/" rel="noopener noreferrer" target="_blank" title="Fantasy Hall">Fantasy Hall</a></li>
                         <li><a href="http://www.capcitykitchen.com/" rel="noopener noreferrer" target="_blank" title="Fantasy Hall">Capital City Kitchen</a></li>
                         <li><a href="https://austin4u.com/" rel="noopener noreferrer" target="_blank" title="Austin">Austin</a></li>
-                        <li><a href="" target="_blank" rel="noopener noreferrer" title="Fantasy Hall">Awaiting...</a></li>
+                        <li><a href="https://marahalleab-nursery.com" target="_blank" rel="noopener noreferrer" title="Al Marah Al Leab Nursery">Al Marah Al Leab Nursery</a></li>
+                        <li><a href="http://www.shannonfms.ie" target="_blank" rel="noopener noreferrer" title="Shannon Management Services">Shannon Management Services</a></li>
+                        <li><a href="/" target="_blank" rel="noopener noreferrer" title="Fantasy Hall">Awaiting...</a></li>
                     </ol>
                 </section>
             </div>                
