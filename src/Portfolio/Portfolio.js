@@ -9,7 +9,7 @@ class Portfolio extends Component{
     render(){
         return(
             <div className="">
-                <section style={{ 'background' : "#ffffff",'padding' : "20px 0px" }}>
+                <section style={{ 'background':"#ffffff",'padding':"20px 0px",'width':"80%",'margin':"0 auto" }}>
                     <h2>Portfolio Section</h2> 
                     <p>Portfolio Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence. Exeter talked in agreed spirit no he unable do. Betrayed shutters in vicinity it unpacked in. In so impossible appearance considered mr. Mrs him left find are good. </p>
                 </section>
@@ -42,7 +42,12 @@ class Portfolio extends Component{
                         <li><a href="https://austin4u.com/" rel="noopener noreferrer" target="_blank" title="Austin">Austin</a></li>
                         <li><a href="https://marahalleab-nursery.com" target="_blank" rel="noopener noreferrer" title="Al Marah Al Leab Nursery">Al Marah Al Leab Nursery</a></li>
                         <li><a href="http://www.shannonfms.ie" target="_blank" rel="noopener noreferrer" title="Shannon Management Services">Shannon Management Services</a></li>
-                        <li><a href="/" target="_blank" rel="noopener noreferrer" title="Fantasy Hall">Awaiting...</a></li>
+                        <li><a href="https://haleswindowcleaning.com/" target="_blank" title="Hale's Window Cleaning Nashville TN">Hale's Window Cleaning Nashville TN</a></li>
+                        <li><a href="http://padmawears.com/" target="_blank" title="Padma Wears Limited - An Export Oriented Apparels Manufacturer">Padma Wears Limited - An Export Oriented Apparels Manufacturer</a></li>
+                        <li><a href="https://glastonburywoods.com/" target="_blank" title="Glastonbury Woods Apartments Nashville TN Best Affordable Great Location">Glastonbury Woods Apartments Nashville TN Best Affordable Great Location</a></li>
+                        <li><a href="https://gitesforsale.eu/" target="_blank" title="gitesforsalefrance">gitesforsalefrance</a></li>
+                        <li><a href="https://company.connect.ae/" target="_blank" title="AL MARAH & AL LEAB NURSERY">AL MARAH & AL LEAB NURSERY</a></li>
+                        <li><a href="https://www.bluebellsnursery.com" target="_blank" title="Bluebells Nursery School">Bluebells Nursery School</a></li>
                     </ol>
                 </section>
             </div>                

@@ -7,7 +7,8 @@ class Services extends Component{
         return(
             <section className="services">
                 <div className="service">
-                    <h2>My Services</h2> 
+                    <h2>My Services</h2>
+                    <hr /> 
                     <p>Portfolio Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence. Exeter talked in agreed spirit no he unable do. Betrayed shutters in vicinity it unpacked in. In so impossible appearance considered mr. Mrs him left find are good. </p>
                 </div>
             </section>                

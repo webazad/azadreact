@@ -2,8 +2,11 @@
     Created on : Sep 24, 2018, 10:24:34 AM
     Author     : Md. Abul Kalam Azad
 */
-div.the_section{
-    background: red;
+section.contact div h2{
+    margin: 30px 0px 15px;
+}
+section.contact div{
     padding: 30px 0px;
 }
+hr{background: #5c5959;height:2px;border: none;width: 130px;}
 

@@ -4,5 +4,19 @@
 */
 section.services{
     background: #e3e3e3;
+    padding: 30px 0px;
+}
+div.service{
+    width: 80%;
+    margin:0 auto;
+}
+section.services h2, section.services p{
+    margin: 0px;
+}
+section.services h2{
+    margin-bottom: 20px;
+}
+section.services p{
+    line-height: 1.5em;
 }
 

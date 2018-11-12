@@ -9,12 +9,14 @@ class About extends Component{
     render(){
         return(
             <section className="about">
-                <h2>About Me</h2>
-                <h3>Web Designer & Developer</h3>              
-                <p>I am a WordPress design and coding expert. I have 5 years of WordPress practical experience. And have worked in hundreds of websites. My desire is to help in WordPress premium and custom themes and plugins customization and development.</p>              
+                <div style={{ 'background':"#ffffff",'padding':"20px 0px",'width':"80%",'margin':"0 auto" }}>
+                    <h2>About Me</h2>
+                    <p>I am a WordPress design and coding expert. I have 5 years of WordPress practical experience. And have worked in hundreds of websites. My desire is to help in WordPress premium and custom themes and plugins customization and development.</p>              
+                </div>
             </section>
         );
     }
 }
 export default About;
+
 

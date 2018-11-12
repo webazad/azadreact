@@ -38,12 +38,12 @@ class Footer extends Component{
                             <div className="col">
                                 <h3>Socials</h3>
                                 <ul>
-                                    <li><a href="/">Facebook</a></li>
-                                    <li><a href="/">Twitter</a></li>
-                                    <li><a href="/">Linkedin</a></li>
-                                    <li><a href="/">Instagram</a></li>
-                                    <li><a href="/">Skype</a></li>
-                                    <li><a href="/">Whatsapp</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Facebook</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Twitter</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Linkedin</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Instagram</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Skype</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Whatsapp</a></li>
                                 </ul>
                             </div>
                         </div>

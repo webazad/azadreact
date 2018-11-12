@@ -2,12 +2,11 @@
  * and open the template in the editor.
  */
 import React, {Component} from "react";
-import Background from './pattern-green.jpg';
 
 class Main extends Component{
     render(){
         return(
-            <section className="main_section" style={{backgroundImage:"url("+Background+")"}}>
+            <section className="main_section">
                 <div className="main_upper">
                     <div className="upper_box">
                         <h2>Special Features</h2> 

@@ -23,6 +23,8 @@ div.colm_3{
     border-radius:5px;
     padding:10px;
     flex-basis:30%;
+}
+div.colm_3:hover{ 
     box-shadow:0px 0px 2px 1px rgba(0,0,0,0.3);
 }
 
