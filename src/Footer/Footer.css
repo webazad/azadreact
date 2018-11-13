@@ -20,8 +20,8 @@ div.col ul li a{
     color: #e3e3e3;
     font-size: 13px;
 }
-div.socials ul li a i.fa{
-    color: red;
+div.links ul li a i.fa, div.languages ul li a i.fa, div.socials ul li a i.fa{
+    color: #ff6347;
     width: 15px;
     margin-right: 5px;
 }

@@ -16,14 +16,17 @@ class Main extends Component{
                 <div className="main_lower">
                     <div className="box">
                         <div className="colm_3">
+                            <i className="fa fa-css3"></i>
                             <h3>Web Design</h3> 
                             <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence.</p>
                         </div>
                         <div className="colm_3">
+                            <i className="fa fa-html5"></i>
                             <h3>Web Developement</h3> 
                             <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence.</p>
                         </div>
                         <div className="colm_3">
+                            <i className="fa fa-chevron-right"></i>
                             <h3>Apps Development</h3>
                             <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence.</p>
                         </div>

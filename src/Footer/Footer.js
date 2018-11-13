@@ -3,6 +3,8 @@
  */
 import React, {Component} from "react";
 import '../../node_modules/font-awesome/css/font-awesome.min.css';
+
+
 import logo from '../Header/logo.png';
 
 class Footer extends Component{
@@ -15,24 +17,25 @@ class Footer extends Component{
                             <div className="col logo">
                                 <a href="/"><img src={logo} className="App-logo" alt="logo" /></a>
                             </div>
-                            <div className="col">
+                            <div className="col links">
                                 <h3>Links</h3>
                                 <ul>
-                                    <li><a href="/">Privacy Policy</a></li>
-                                    <li><a href="/">Terms Of Services</a></li>
-                                    <li><a href="/">Blog</a></li>
-                                    <li><a href="/">Designer</a></li>
-                                    <li><a href="/">Developer</a></li>
+                                    <li><a href="/"><i className="fa fa-chevron-right"></i> Privacy Policy</a></li>
+                                    <li><a href="/"><i className="fa fa-chevron-right"></i> Terms Of Services</a></li>
+                                    <li><a href="/"><i className="fa fa-chevron-right"></i> Blog</a></li>
+                                    <li><a href="/"><i className="fa fa-chevron-right"></i> Designer</a></li>
+                                    <li><a href="/"><i className="fa fa-chevron-right"></i> Developer</a></li>
+                                    
                                 </ul>
                             </div>
-                            <div className="col">
+                            <div className="col languages">
                                 <h3>Languages</h3>
                                 <ul>
-                                    <li><a href="/">HTML</a></li>
-                                    <li><a href="/">CSS</a></li>
-                                    <li><a href="/">JAVASCRIPT</a></li>
-                                    <li><a href="/">PHP</a></li>
-                                    <li><a href="/">REACTJS</a></li>
+                                    <li><a href="/"><i className="fa fa-html5"></i> HTML</a></li>
+                                    <li><a href="/"><i className="fa fa-css3"></i> CSS</a></li>
+                                    <li><a href="/"><i className="fa fa-chevron-right"></i> JAVASCRIPT</a></li>
+                                    <li><a href="/"><i className="fa fa-chevron-right"></i> PHP</a></li>
+                                    <li><a href="/"><i className="fa fa-chevron-right"></i> REACTJS</a></li>
                                 </ul>
                             </div>
                             <div className="col socials">
