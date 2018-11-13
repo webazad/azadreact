@@ -3,7 +3,11 @@
     Author     : Md. Abul Kalam Azad
 */
 footer{border-bottom:4px solid #ff6347;}
-footer .container{overflow: hidden;width: 80%;margin: 0 auto 2px;}
+footer .container{
+    overflow: hidden;
+    width: 80%;
+    margin: 0 auto 2px;
+}
 div.col{float: left;width: 25%;}
 div.col h3{text-align:left;margin-left:44px;}
 div.col.logo{text-align: left;}
@@ -22,7 +26,11 @@ div.socials ul li a i.fa{
     margin-right: 5px;
 }
 div.col ul li a:hover{color: #ffffff;}
-footer div.footer_top{padding: 40px 0px;background: #313030;color: #ffffff;}
+footer div.footer_top{
+    padding: 40px 0px;
+    background: #313030;
+    color: #ffffff;
+}
 div.copyright{padding: 20px 0px;background: rgb(0, 0, 0);}
 footer p{margin: 0;color:#ffffff;font-size:15px;}
 
