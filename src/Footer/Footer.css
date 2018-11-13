@@ -25,6 +25,15 @@ div.links ul li a i.fa, div.languages ul li a i.fa, div.socials ul li a i.fa{
     width: 15px;
     margin-right: 5px;
 }
+div.socials ul li a i.fa-skype{color: #00aff0;}
+div.socials ul li a i.fa-facebook{color: #4267b2;}
+div.socials ul li a i.fa-linkedin{color: #0d77b7;}
+div.socials ul li a i.fa-pinterest{color: #cd2029;}
+div.socials ul li a i.fa-google-plus{color: #df4b37;}
+div.socials ul li a i.fa-twitter{color: #429cd6;}
+div.socials ul li a i.fa-whatsapp{color: #59f775;}
+div.socials ul li a i.fa-github{color: #000000;}
+
 div.col ul li a:hover{color: #ffffff;}
 footer div.footer_top{
     padding: 40px 0px;
