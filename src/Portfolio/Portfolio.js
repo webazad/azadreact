@@ -42,12 +42,12 @@ class Portfolio extends Component{
                         <li><a href="https://austin4u.com/" rel="noopener noreferrer" target="_blank" title="Austin">Austin</a></li>
                         <li><a href="https://marahalleab-nursery.com" target="_blank" rel="noopener noreferrer" title="Al Marah Al Leab Nursery">Al Marah Al Leab Nursery</a></li>
                         <li><a href="http://www.shannonfms.ie" target="_blank" rel="noopener noreferrer" title="Shannon Management Services">Shannon Management Services</a></li>
-                        <li><a href="https://haleswindowcleaning.com/" target="_blank" title="Hale's Window Cleaning Nashville TN">Hale's Window Cleaning Nashville TN</a></li>
-                        <li><a href="http://padmawears.com/" target="_blank" title="Padma Wears Limited - An Export Oriented Apparels Manufacturer">Padma Wears Limited - An Export Oriented Apparels Manufacturer</a></li>
-                        <li><a href="https://glastonburywoods.com/" target="_blank" title="Glastonbury Woods Apartments Nashville TN Best Affordable Great Location">Glastonbury Woods Apartments Nashville TN Best Affordable Great Location</a></li>
-                        <li><a href="https://gitesforsale.eu/" target="_blank" title="gitesforsalefrance">gitesforsalefrance</a></li>
-                        <li><a href="https://company.connect.ae/" target="_blank" title="AL MARAH & AL LEAB NURSERY">AL MARAH & AL LEAB NURSERY</a></li>
-                        <li><a href="https://www.bluebellsnursery.com" target="_blank" title="Bluebells Nursery School">Bluebells Nursery School</a></li>
+                        <li><a href="https://haleswindowcleaning.com/" target="_blank" rel="noopener noreferrer" title="Hale's Window Cleaning Nashville TN">Hale's Window Cleaning Nashville TN</a></li>
+                        <li><a href="http://padmawears.com/" target="_blank" rel="noopener noreferrer" title="Padma Wears Limited - An Export Oriented Apparels Manufacturer">Padma Wears Limited - An Export Oriented Apparels Manufacturer</a></li>
+                        <li><a href="https://glastonburywoods.com/" target="_blank" rel="noopener noreferrer" title="Glastonbury Woods Apartments Nashville TN Best Affordable Great Location">Glastonbury Woods Apartments Nashville TN Best Affordable Great Location</a></li>
+                        <li><a href="https://gitesforsale.eu/" target="_blank" rel="noopener noreferrer" title="gitesforsalefrance">gitesforsalefrance</a></li>
+                        <li><a href="https://company.connect.ae/" target="_blank" rel="noopener noreferrer" title="AL MARAH & AL LEAB NURSERY">AL MARAH & AL LEAB NURSERY</a></li>
+                        <li><a href="https://www.bluebellsnursery.com" target="_blank" rel="noopener noreferrer" title="Bluebells Nursery School">Bluebells Nursery School</a></li>
                     </ol>
                 </section>
             </div>                

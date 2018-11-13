@@ -2,7 +2,7 @@
  * and open the template in the editor.
  */
 import React, {Component} from "react";
-
+import '../../node_modules/font-awesome/css/font-awesome.min.css';
 import logo from '../Header/logo.png';
 
 class Footer extends Component{
@@ -35,15 +35,15 @@ class Footer extends Component{
                                     <li><a href="/">REACTJS</a></li>
                                 </ul>
                             </div>
-                            <div className="col">
+                            <div className="col socials">
                                 <h3>Socials</h3>
                                 <ul>
-                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Facebook</a></li>
-                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Twitter</a></li>
-                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Linkedin</a></li>
-                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Instagram</a></li>
-                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Skype</a></li>
-                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank">Whatsapp</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank"><i className="fa fa-facebook"></i> Facebook</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank"><i className="fa fa-twitter"></i> Twitter</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin"></i> Linkedin</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank"><i className="fa fa-instagram"></i> Instagram</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank"><i className="fa fa-skype"></i> Skype</a></li>
+                                    <li><a href="http://www.facebook.com/we.dev.azad/" rel="noopener noreferrer" target="_blank"><i className="fa fa-whatsapp"></i> Whatsapp</a></li>
                                 </ul>
                             </div>
                         </div>
