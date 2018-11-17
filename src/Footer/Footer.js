@@ -42,13 +42,13 @@ class Footer extends Component{
                                 <h3>Socials</h3>
                                 <ul>
                                     <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-facebook"></i> Facebook</a></li>
-                                    <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-twitter"></i> Twitter</a></li>
-                                    <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin"></i> Linkedin</a></li>
                                     <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-instagram"></i> Instagram</a></li>
+                                    <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-twitter"></i> Twitter</a></li>
+                                    <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-pinterest"></i> Pinterest</a></li>
+                                    <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin"></i> Linkedin</a></li>
+                                    <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-google-plus"></i> Google Plus</a></li>
                                     <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-skype"></i> Skype</a></li>
                                     <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-whatsapp"></i> Whatsapp</a></li>
-                                    <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-pinterest"></i> Pinterest</a></li>
-                                    <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-google-plus"></i> Google Plus</a></li>
                                     <li><a href="https://www.facebook.com/web.dev.azad" rel="noopener noreferrer" target="_blank"><i className="fa fa-github"></i> Github</a></li>
                                 </ul>
                             </div>

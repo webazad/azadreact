@@ -10,7 +10,7 @@ class Main extends Component{
                 <div className="main_upper">
                     <div className="upper_box">
                         <h2>Special Features</h2> 
-                        <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence. Exeter talked in agreed spirit no he unable do. Betrayed shutters in vicinity it unpacked in. </p>
+                        <p>We believe in adaptive planning, evolutionary development and timely delivery through collaboration.</p>
                     </div>    
                 </div>
                 <div className="main_lower">
@@ -18,17 +18,17 @@ class Main extends Component{
                         <div className="colm_3">
                             <i className="fa fa-css3"></i>
                             <h3>Web Design</h3> 
-                            <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence.</p>
+                            <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an.</p>
                         </div>
                         <div className="colm_3">
                             <i className="fa fa-html5"></i>
                             <h3>Web Developement</h3> 
-                            <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence.</p>
+                            <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an.</p>
                         </div>
                         <div className="colm_3">
                             <i className="fa fa-chevron-right"></i>
                             <h3>Apps Development</h3>
-                            <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence.</p>
+                            <p>Section Main Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an.</p>
                         </div>
                     </div>
                 </div>

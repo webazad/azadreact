@@ -7,9 +7,9 @@ class Services extends Component{
         return(
             <section className="services">
                 <div className="service">
-                    <h2>My Services</h2>
+                    <h2>Our Best Services</h2>
                     <hr /> 
-                    <p>Portfolio Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence. Exeter talked in agreed spirit no he unable do. Betrayed shutters in vicinity it unpacked in. In so impossible appearance considered mr. Mrs him left find are good. </p>
+                    <p>We don't believe in creating just another website for you. We want your website to make mark. Our years of experience in website conversion optimization and improving user experience will make this experience great for you.</p>
                 </div>
             </section>                
         );

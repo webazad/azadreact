@@ -11,7 +11,7 @@ class Portfolio extends Component{
             <div className="">
                 <section style={{ 'background':"#ffffff",'padding':"20px 0px",'width':"80%",'margin':"0 auto" }}>
                     <h2>Portfolio Section</h2> 
-                    <p>Portfolio Uneasy barton seeing remark happen his has. Am possible offering at contempt mr distance stronger an. Attachment excellence announcing or reasonable am on if indulgence. Exeter talked in agreed spirit no he unable do. Betrayed shutters in vicinity it unpacked in. In so impossible appearance considered mr. Mrs him left find are good. </p>
+                    <p>An experienced team on developing, testing, managing and marketing eCommerce stores. Complete consultancy and support to make sure your store sells and you get maximum return on your investment.</p>
                 </section>
                 <section style={{ 'background' : "#e3e3e3",'padding' : "20px 0px" }}>
                     <h2>Demos of ...</h2>
@@ -48,6 +48,10 @@ class Portfolio extends Component{
                         <li><a href="https://gitesforsale.eu/" target="_blank" rel="noopener noreferrer" title="gitesforsalefrance">gitesforsalefrance</a></li>
                         <li><a href="https://company.connect.ae/" target="_blank" rel="noopener noreferrer" title="AL MARAH & AL LEAB NURSERY">AL MARAH & AL LEAB NURSERY</a></li>
                         <li><a href="https://www.bluebellsnursery.com" target="_blank" rel="noopener noreferrer" title="Bluebells Nursery School">Bluebells Nursery School</a></li>
+                        <li><a href="https://bellemeadejewelry.com/" target="_blank" rel="noopener noreferrer" title="Belle Meade Jewelry & Repair">Belle Meade Jewelry & Repair</a></li>
+                        <li><a href="https://deckmasterstn.com/" target="_blank" rel="noopener noreferrer" title="DECK MASTERS">DECK MASTERS</a></li>
+                        <li><a href="https://lascustompowerandlighting.com/" rel="noopener noreferrer" target="_blank" title="LA’s Custom Power and Lighting Co.">LA’s Custom Power and Lighting Co.</a></li>
+                        <li><a href="https://tinasdelights.biz/" target="_blank" rel="noopener noreferrer" title="Tina's Delights Homemade Pies">Tina's Delights Homemade Pies</a></li>                    
                     </ol>
                 </section>
             </div>                
