@@ -3,6 +3,7 @@
  */
 import React, {Component} from "react";
 import '../../node_modules/font-awesome/css/font-awesome.min.css';
+import Clock from 'react-live-clock';
 
 
 import logo from '../Header/logo.png';
@@ -56,7 +57,8 @@ class Footer extends Component{
                     </div>
                 </div>
                 <div className="copyright">
-                    <p>Copyright 2018, All rights Reserved By Azad</p>
+                    <p>Copyright 2018, All rights Reserved By Azad  
+                    <Clock format={'HH:mm:ss'} ticking={true} timezone={'Asia/Dhaka'} /></p>
                 </div>
             </footer>                
         );
