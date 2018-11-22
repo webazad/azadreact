@@ -1,6 +1,7 @@
 body{font-family: 'Rajdhani', sans-serif;}
 .App {
   text-align: center;
+  _background-image:url(./pattern-green.jpg);
 }
 
 .App-logo {

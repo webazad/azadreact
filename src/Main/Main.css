@@ -5,7 +5,7 @@
 section{}
 section h2, section h3{color:#5c5959;}
 div.main_upper{padding:30px 0px;background: #ffffff;}
-div.main_lower{padding:30px 0px;background: #e3e3e3;}
+div.main_lower{padding:30px 0px;background-image:url(./pattern-green.jpg);}
 div.upper_box{width:80%;margin:0 auto;}
 div.box{
     align-items:center;
