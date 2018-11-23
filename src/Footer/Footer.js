@@ -17,6 +17,7 @@ class Footer extends Component{
                         <div className="container">
                             <div className="col logo">
                                 <a href="/"><img src={logo} className="App-logo" alt="logo" /></a>
+                                <Clock format={'HH:mm:ss'} ticking={true} timezone={'Asia/Dhaka'} />
                             </div>
                             <div className="col links">
                                 <h3>Links</h3>
@@ -57,8 +58,7 @@ class Footer extends Component{
                     </div>
                 </div>
                 <div className="copyright">
-                    <p>Copyright 2018, All rights Reserved By Azad  
-                    <Clock format={'HH:mm:ss'} ticking={true} timezone={'Asia/Dhaka'} /></p>
+                    <p>Copyright 2018, All rights Reserved By Azad</p>
                 </div>
             </footer>                
         );

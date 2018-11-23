@@ -1,7 +1,6 @@
 body{font-family: 'Rajdhani', sans-serif;}
 .App {
   text-align: center;
-  _background-image:url(./pattern-green.jpg);
 }
 
 .App-logo {
@@ -26,3 +25,4 @@ body{font-family: 'Rajdhani', sans-serif;}
   to { transform: rotate(360deg); }
 }
 div.azad_container{width: 80%;margin:0 auto;}
+

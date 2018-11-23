@@ -10,7 +10,8 @@ footer .container{
 }
 div.col{float: left;width: 25%;}
 div.col h3{text-align:left;margin-left:44px;}
-div.col.logo{text-align: left;}
+div.col.logo{text-align: center;}
+div.col.logo a{padding:15px 0px;}
 div.col ul{margin-top: 0;list-style: none;text-align: left;}
 div.col ul li a{
     text-decoration: none;
@@ -41,5 +42,5 @@ footer div.footer_top{
     color: #ffffff;
 }
 div.copyright{padding: 20px 0px;background: rgb(0, 0, 0);}
-footer p{margin: 0;color:#ffffff;font-size:15px;}
+footer p{margin: 0;color:#ffffff;font-size:14px;}
 

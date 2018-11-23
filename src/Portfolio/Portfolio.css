@@ -14,5 +14,13 @@ section ol li{
     list-style-position:outside;
     display: inline-block;
 }
-section ol li a{color:#ffffff;background:#444141;padding:5px;border-radius:4px;text-decoration:none;display:block;}
+section ol li a{
+    color:#ffffff;
+    font-size:12px;
+    background:#444141;
+    padding:5px;
+    border-radius:4px;
+    text-decoration:none;
+    display:block;
+}
 section ol li a:hover{color:#ffffff;background:#000000;}
