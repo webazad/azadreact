@@ -2,13 +2,33 @@
  * and open the template in the editor.
  */
 import React, {Component} from "react";
+import './Main.css';
+import * as firebase from 'firebase';
 
 class Main extends Component{
-    constructor(){
-        super();
-        this.state = {'name':'Azad'};
+    constructor(props){
+        super(props);
+        this.state = {
+            speed: 12,
+            content: 'Wait a bit...'
+        };
     }
-    render(){
+    componentDidMount(){
+        const rootRef = firebase.database().ref().child('react');
+        const speedRef = rootRef.child('speed');
+        const contentRef = rootRef.child('content');
+        speedRef.on('value', snap => {
+            this.setState({
+                speed: snap.val()
+            });
+        });        
+        contentRef.on('value', snap => {
+            this.setState({
+                content: snap.val()
+            });
+        });        
+    }
+    render(props){
         setTimeout(()=>{
             this.setState({'name':'Do'})
         },3000);
@@ -17,7 +37,7 @@ class Main extends Component{
                 <div className="main_upper">
                     <div className="upper_box">
                         <h2>What We Are {this.state.name}</h2> 
-                        <p>We believe in adaptive planning, evolutionary development and timely delivery through collaboration.</p>
+                        <p>{this.state.content} We believe in adaptive planning, evolutionary development and timely delivery through collaboration. {this.state.speed}</p>
                     </div>    
                 </div>
                 <div className="main_lower">

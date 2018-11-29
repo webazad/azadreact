@@ -2,6 +2,8 @@
  * and open the template in the editor.
  */
 import React, {Component} from "react";
+//import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react';
+import './Contact.css';
 
 class Contact extends Component{
     render(){
@@ -12,10 +14,12 @@ class Contact extends Component{
                     <hr />
                     <p>We are here online 24/7. We are eagerly ready and  waiting to help our clients as they needed any time to support they needed.</p>
                 </div>
+                
             </section>                
         );
     }
 }
+
 export default Contact;
 
 

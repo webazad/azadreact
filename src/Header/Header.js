@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 import React, { Component } from "react";
+
 import Nav from '../Nav/Nav';
+import './Header.css';
 
 import logo from './logo.png';
 

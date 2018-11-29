@@ -3,6 +3,7 @@
  */
 import React, {Component} from "react";
 import '../../node_modules/font-awesome/css/font-awesome.min.css';
+import './Footer.css';
 import Clock from 'react-live-clock';
 
 

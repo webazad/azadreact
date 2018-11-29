@@ -2,6 +2,7 @@
  * and open the template in the editor.
  */
 import React, {Component} from "react";
+import './Portfolio.css';
 import art from './art.png';
 import people from './people.png';
 import fable from './fable.png';
@@ -16,6 +17,16 @@ import city from './city.png';
 import austin from './austin.png';
 import marah from './marah.png';
 import way from './way.png';
+import hale from './hale.png';
+import padma from './padma.png';
+import glaston from './glaston.png';
+import france from './france.png';
+import ae from './ae.png';
+import blue from './blue.png';
+import bell from './bell.png';
+import deck from './deck.png';
+import power from './power.png';
+import tina from './tina.png';
 import arans from './arans.png';
 import jcurve from './j-curve.png';
 import tinker from './tinker.png';
@@ -59,16 +70,16 @@ class Portfolio extends Component{
                         <li><a href="https://austin4u.com/" rel="noopener noreferrer" target="_blank" title="Austin"><img src={austin} className="" alt="logo" /></a></li>
                         <li><a href="https://marahalleab-nursery.com" target="_blank" rel="noopener noreferrer" title="Al Marah Al Leab Nursery"><img src={marah} className="" alt="logo" /></a></li>
                         <li><a href="http://www.shannonfms.ie" target="_blank" rel="noopener noreferrer" title="Shannon Management Services"><img src={way} className="" alt="logo" /></a></li>
-                        <li><a href="https://haleswindowcleaning.com/" target="_blank" rel="noopener noreferrer" title="Hale's Window Cleaning Nashville TN"><img src={arans} className="" alt="logo" /></a></li>
-                        <li><a href="http://padmawears.com/" target="_blank" rel="noopener noreferrer" title="Padma Wears Limited - An Export Oriented Apparels Manufacturer"><img src={arans} className="" alt="logo" /></a></li>
-                        <li><a href="https://glastonburywoods.com/" target="_blank" rel="noopener noreferrer" title="Glastonbury Woods Apartments Nashville TN Best Affordable Great Location"><img src={arans} className="" alt="logo" /></a></li>
-                        <li><a href="https://gitesforsale.eu/" target="_blank" rel="noopener noreferrer" title="gitesforsalefrance"><img src={arans} className="" alt="logo" /></a></li>
-                        <li><a href="https://company.connect.ae/" target="_blank" rel="noopener noreferrer" title="AL MARAH & AL LEAB NURSERY"><img src={arans} className="" alt="logo" /></a></li>
-                        <li><a href="https://www.bluebellsnursery.com" target="_blank" rel="noopener noreferrer" title="Bluebells Nursery School"><img src={arans} className="" alt="logo" /></a></li>
-                        <li><a href="https://bellemeadejewelry.com/" target="_blank" rel="noopener noreferrer" title="Belle Meade Jewelry & Repair"><img src={arans} className="" alt="logo" /></a></li>
-                        <li><a href="https://deckmasterstn.com/" target="_blank" rel="noopener noreferrer" title="DECK MASTERS"><img src={arans} className="" alt="logo" /></a></li>
-                        <li><a href="https://lascustompowerandlighting.com/" rel="noopener noreferrer" target="_blank" title="LA’s Custom Power and Lighting Co."><img src={arans} className="" alt="logo" /></a></li>
-                        <li><a href="https://tinasdelights.biz/" target="_blank" rel="noopener noreferrer" title="Tina's Delights Homemade Pies"><img src={arans} className="" alt="logo" /></a></li>                    
+                        <li><a href="https://haleswindowcleaning.com/" target="_blank" rel="noopener noreferrer" title="Hale's Window Cleaning Nashville TN"><img src={hale} className="" alt="logo" /></a></li>
+                        <li><a href="http://padmawears.com/" target="_blank" rel="noopener noreferrer" title="Padma Wears Limited - An Export Oriented Apparels Manufacturer"><img src={padma} className="" alt="logo" /></a></li>
+                        <li><a href="https://glastonburywoods.com/" target="_blank" rel="noopener noreferrer" title="Glastonbury Woods Apartments Nashville TN Best Affordable Great Location"><img src={glaston} className="" alt="logo" /></a></li>
+                        <li><a href="https://gitesforsale.eu/" target="_blank" rel="noopener noreferrer" title="gitesforsalefrance"><img src={france} className="" alt="logo" /></a></li>
+                        <li><a href="https://company.connect.ae/" target="_blank" rel="noopener noreferrer" title="AL MARAH & AL LEAB NURSERY"><img src={ae} className="" alt="logo" /></a></li>
+                        <li><a href="https://www.bluebellsnursery.com" target="_blank" rel="noopener noreferrer" title="Bluebells Nursery School"><img src={blue} className="" alt="logo" /></a></li>
+                        <li><a href="https://bellemeadejewelry.com/" target="_blank" rel="noopener noreferrer" title="Belle Meade Jewelry & Repair"><img src={bell} className="" alt="logo" /></a></li>
+                        <li><a href="https://deckmasterstn.com/" target="_blank" rel="noopener noreferrer" title="DECK MASTERS"><img src={deck} className="" alt="logo" /></a></li>
+                        <li><a href="https://lascustompowerandlighting.com/" rel="noopener noreferrer" target="_blank" title="LA’s Custom Power and Lighting Co."><img src={power} className="" alt="logo" /></a></li>
+                        <li><a href="https://tinasdelights.biz/" target="_blank" rel="noopener noreferrer" title="Tina's Delights Homemade Pies"><img src={tina} className="" alt="logo" /></a></li>                    
                     </ol>
                 </section>
             </div>                

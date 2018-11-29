@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 import React, { Component } from 'react';
+import './About.css';
 
 class About extends Component{
     render(){
